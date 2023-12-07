@@ -1,0 +1,28 @@
+.faq-container {
+  background-color: white;
+  padding: 20px;
+  font-family: 'Inter', sans-serif;
+}
+
+.faq-title {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: -10px
+}
+
+.faq-section {
+  margin-top: 22px;
+}
+
+.faq-question {
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+}
+
+.faq-answer {
+  font-size: 15px;
+  color: grey;
+  margin-top: -5px;
+}
